@@ -1,4 +1,4 @@
-jQuery-Event-Tracking
+jEventAnalytics
 =====================
 
-I developed this jQuery tracking code that allows you to track your own custom events and then view them as individual items inside the Google analytics dashboard.
+A small script to help track custom events and then view them as individual items inside the Google analytics dashboard.
